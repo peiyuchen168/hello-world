@@ -1,2 +1,5 @@
 # hello-world
-a test 
+
+It is Friday! 
+
+No snow, little wind, very sunny!
